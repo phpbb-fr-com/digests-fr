@@ -12,7 +12,7 @@ if (!defined('IN_PHPBB'))
 	exit;
 }
 
-if (empty($lang) || !is_array($lang))
+if (empty($lang) || !is_array($lang))
 {
 	$lang = array();
 }
@@ -30,7 +30,7 @@ if (empty($lang) || !is_array($lang))
 // dans une url, il n'est pas nécessaire de spécifier un ordre, par exemple "Cliquez sur %ICI%s" est suffisant
 //
 // Quelques caractères que vous pouvez copier/coller :
-// ’ » “ ” …“
+// ’ » “ ” …
 //
 
 $lang = array_merge($lang, array(

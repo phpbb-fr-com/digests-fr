@@ -11,3 +11,7 @@ Remplacement des balises "’", "“" et "”" pour faciliter la (re)lecture
 Insécables avant : ? !  
 "post(s)" -> "message(s)"  
 Modifications acp/common.php  
+
+* 220622
+acp/common.php : suppression des guillemets fermants intempestifs dans le header
+Remplacement des espaces insécables par des espaces normales dans le code

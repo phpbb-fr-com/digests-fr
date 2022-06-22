@@ -13,7 +13,7 @@
 		.black { color: #000000; }
 		blockquote { background-image: none; margin-left: 10px; clear: both; float: left; }
 		.box { margin:5px; padding:5px; border-style:dashed; border-width:1px; }
-		body { background: white; width:100% !important; -ms-text-size-adjust:100%; margin:0; padding:0; }
+		body { background: white; width:100% !important; -ms-text-size-adjust:100%; margin:0; padding:0; }
 		.copyright { padding:0px; }
 		.content { clear: both; float: left; width: 100%; }
 		.forum { clear: both; float: left; width: 100%; }
