@@ -13,5 +13,5 @@ Insécables avant : ? !
 Modifications acp/common.php  
 
 * 220622
-acp/common.php : suppression des guillemets fermants intempestifs dans le header
-Remplacement des espaces insécables par des espaces normales dans le code
+acp/common.php : suppression des guillemets fermants intempestifs dans le header  
+Remplacement des espaces insécables par des espaces normales dans le code  
