@@ -1,6 +1,6 @@
 Bonjour {{ USERNAME }},
 
-Comme vous l'avez souhaité, vous n'êtes plus abonné à la réception des résumés du forum {{ FORUM_NAME }}.
+Comme vous l'avez demandé, vous n'êtes plus abonné à la réception des résumés du forum {{ FORUM_NAME }}.
 
 Cordialement,
 

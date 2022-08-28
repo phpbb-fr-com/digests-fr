@@ -1,6 +1,6 @@
 Bonjour {{ USERNAME }},
 
-Ce message vous informe qu'un administrateur du forum {{ FORUM_NAME }} vous a abonné à la réception d’un résumé {{ DIGESTS_TYPE }} {{ DIGESTS_FORMAT }}. Si vous ne souhaitez pas recevoir de résumé, vous pouvez vous désabonner en sélectionnant l'onglet « Résumés » dans le panneau de contrôle de l'utilisateur du forum. Une fois connecté, sélectionnez « Aucun » dans l'option « Fréquence d'envoi du résumé ». Vous pouvez également y accéder directement ici :
+Ce message vous informe qu'un administrateur du forum {{ FORUM_NAME }} vous a abonné à la réception d’un résumé {{ DIGESTS_TYPE }} {{ DIGESTS_FORMAT }}. Si vous ne souhaitez pas recevoir de résumé, vous pouvez vous désabonner en sélectionnant l'onglet « Résumés » dans le panneau de contrôle de l'utilisateur du forum. Une fois connecté, sélectionnez « Aucun » dans l'option « Fréquence d'envoi du résumé ». Vous pouvez également y accéder en cliquant sur le lien suivant :
 
 {{ DIGESTS_UCP_LINK }}
 
