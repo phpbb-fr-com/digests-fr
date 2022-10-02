@@ -77,11 +77,7 @@ $lang = array_merge($lang, array(
 	'DIGESTS_CUSTOM_STYLESHEET_PATH_EXPLAIN'				=> 'Ce réglage ne s’applique que si l’option Activer la feuille de style personnalisée est activée. Dans ce cas, cette feuille de style sera appliquée à tous les résumés stylés. Le chemin d’accès doit être relatif à votre dossier de styles phpBB, qui doit normalement se trouver dans le sous-dossier theme. <em>Note</em> : vous êtes responsable de la création de la feuille de style et de son placement dans un fichier, dont le nom est saisi ici, à l’emplacement approprié sur votre serveur. Exemple : prosilver/theme/digest_stylesheet.css. Pour en savoir davantage sur la création de feuilles de style, cliquez <a href="http://www.w3schools.com/css/">ici</a>.',
 	'DIGESTS_DATE_HOUR'										=> 'Date et heure (UTC)',
 	'DIGESTS_DEBUG'											=> 'Activer le débogage des résumés',
-<<<<<<< Updated upstream
-	'DIGESTS_DEBUG_EXPLAIN'									=> 'Utilisé pour le débogage technique. Cette fonction permet d’écrire certaines informations essentielles au dépannage dans le journal d’administration, telles que les requêtes à la base de données utilisées pour assembler les résumés. Vous devez normalement avoir des compétences en matière de développement pour interpréter ces informations.',
-=======
 	'DIGESTS_DEBUG_EXPLAIN'									=> 'Utilisé pour le débogage technique. Cette fonction permet d’écrire certaines informations essentielles au dépannage dans le journal d’administration, telles que les requêtes à la base de données utilisées pour assembler les résumés. Vous devez posséder des compétences en matière de développement pour interpréter ces informations.',
->>>>>>> Stashed changes
 	'DIGESTS_DEFAULT'										=> 'Abonner les lignes cochées uniquement en utilisant les valeurs par défaut',
 	'DIGESTS_DEFAULT_SHORT'									=> 'S’abonner en utilisant les valeurs par défaut',
 	'DIGESTS_DAILY_ONLY'									=> 'Résumés quotidiens seulement',
