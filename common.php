@@ -101,7 +101,7 @@ Si vous avez des questions ou si vous souhaitez nous contacter veuillez adresser
 	'DIGESTS_MONTHLY'					=> 'Mensuel',
 	'DIGESTS_NEW'						=> 'Nouveau',
 	'DIGESTS_NEW_POSTS_ONLY'			=> 'N’afficher que les nouveaux messages dans le résumé',
-	'DIGESTS_NEW_POSTS_ONLY_EXPLAIN'	=> 'Cette option filtre tout message publié avant la date et l’heure de votre dernière visite sur ce forum. Cette option filtre tout message publié avant la date et l’heure de votre dernière visite sur ce forum. Si vous le visitez fréquemment et si vous lisez la plupart des messages, cela évitera l’affichage de messages redondants dans votre résumé. Vous risquez cependant d’en manquer certains dans les forums que vous n’avez pas lus.',
+	'DIGESTS_NEW_POSTS_ONLY_EXPLAIN'	=> 'Cette option filtre tout message publié avant la date et l’heure de votre dernière visite sur ce forum. Si vous le visitez fréquemment et si vous lisez la plupart des messages, cela évitera l’affichage de messages redondants dans votre résumé. Vous risquez cependant d’en manquer certains dans les forums que vous n’avez pas lus.',
 	'DIGESTS_NO_BOOKMARKED_POSTS'		=> 'Il n’y a pas de nouveau message marqué.',
 	'DIGESTS_NO_CONSTRAINT'				=> 'Pas de limitation',
 	'DIGESTS_NO_DETAILS_ERROR'			=> 'La base de données est peut-être incohérente. Aucun enregistrement de résumé détaillé n’a été trouvé pour cette date et cette heure.',
